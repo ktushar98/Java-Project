@@ -1,0 +1,7 @@
+Rajasthan   | Jaipur,Udaipur,Ajmer       | Amer fort,Hawa Mahal    | Birla Temple         | 5N,6D-45000\- | 
+Kerela      | Kochi,Thiruvananthapuram   | Periyar,Edakkal Caves   | Sabarimala Temple    | 5N,6D-51000\- | 
+Sikkim      | Gangtok,Namchi,Pelling     | Lake Tsomgo,Buddha Park | Solophok Chardham    | 4N,5D-33000\- | 
+Maharashtra | Mumbai,Pune,Nashik         | Ajanta Caves,Film City  | Shirdi               | 5N,6D-55000\- | 
+Goa         | Panaji,Margao,Ponda        | Dudhsagar Falls,Colva   | Basilica of Bom Jesus| 5N,6D-50000\- | 
+Gujarat     | Ahmedabad,Surat,Rajkot     | Sabarmati,Gir Forest    | Akshardham Temple    | 5N,6D-45000\- | 
+Assam       | Guwahati,Silchar           | Kaziranga National Park | Kamakhya Temple      | 4N,5D-30000\- | 
